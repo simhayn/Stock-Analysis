@@ -19,7 +19,7 @@ The analysis includes extracting data, performing exploratory data analysis (EDA
 **EDA**
 
 - Visualized the data with cufflinks-plotly.
-- Explored returns, rolling averages, volatility, and Bollinger Bands.
+- Explored returns, rolling averages, volatility and Bollinger Bands.
 
 **Forecasting**
 
