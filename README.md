@@ -1,6 +1,8 @@
-
 # Stock Market Analysis and Prediction✅📈
 This project focuses on analyzing and predicting stock prices for NVDA, MARA, and CLSK. 
+
+It's interactive graphs are available on kaggle notebook preview. You can enter the [link](https://www.kaggle.com/code/natalyyakobov/time-series-analysis-stocks?scriptVersionId=188679366)
+to see them.
 
 The analysis includes extracting data, performing exploratory data analysis (EDA), and forecasting stock prices using different models.
 
