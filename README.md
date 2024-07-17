@@ -25,3 +25,5 @@ The analysis includes extracting data, performing exploratory data analysis (EDA
 
 - Used SARIMAX with auto ARIMA to predict NVDA's closing price.
 - Compared the predictions with those from an LSTM neural network.
+
+  Hope you enjoy this project!
