@@ -1,5 +1,5 @@
 
-# Stock Market Analysis and Prediction
+# Stock Market Analysis and Prediction✅📈
 This project focuses on analyzing and predicting stock prices for NVDA, MARA, and CLSK. 
 
 The analysis includes extracting data, performing exploratory data analysis (EDA), and forecasting stock prices using different models.
