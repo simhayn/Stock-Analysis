@@ -6,7 +6,7 @@ The analysis includes extracting data, performing exploratory data analysis (EDA
 
 ## Project Overview
 - Data Extraction: Stock data for NVDA, MARA, and CLSK was extracted from stooq.
-- Exploratory Data Analysis (EDA): Visualizations were created using cufflinks-plotly to explore stock returns, rolling averages, volatility, and Bollinger Bands.
+- EDA: Visualizations were created using cufflinks-plotly to explore stock returns, rolling averages, volatility, and Bollinger Bands.
 - Prediction Models: The closing price of NVDA was predicted using: **SARIMAX** model with auto ARIMA and **LSTM** neural network.
 
 ## Steps
